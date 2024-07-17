@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gangadhar Marka</h1>
 <h3 align="center">A passionate under-graduate student from CBIT</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently looking for opportunities to contribute my skills.
 
 - 📫 How to reach me **markagangadhar7@gmail.com**
 
